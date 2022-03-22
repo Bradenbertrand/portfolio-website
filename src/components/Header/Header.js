@@ -4,7 +4,7 @@ import Logo from './Logo.png'
 import './Header.css'
 
 const Header = () => {
-  const { homepage, title } = header
+  const { homepage } = header
 
   return (
     <header className='header center'>
