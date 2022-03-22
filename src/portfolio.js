@@ -10,7 +10,7 @@ const about = {
   role: 'Full-Stack React Developer',
   description:
     'Reinventing the way we interact with technology through unique design solutions & interactive experiences.',
-  resume: 'https://example.com',
+  resume: '/Bertrand-Braden-Resume.pdf',
   social: {
     linkedin: 'https://linkedin.com',
     github: 'https://github.com/BradenBertrand',

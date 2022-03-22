@@ -1,5 +1,6 @@
 import { header } from '../../portfolio'
 import Navbar from '../Navbar/Navbar'
+import Logo from './Logo.png'
 import './Header.css'
 
 const Header = () => {
@@ -10,10 +11,10 @@ const Header = () => {
       <h3>
         {homepage ? (
           <a href={homepage} className='link'>
-            {title}
+            <img src={Logo} alt="BB"/>
           </a>
         ) : (
-          title
+          <img src={Logo} alt="BB"/>
         )}
       </h3>
       <Navbar />
