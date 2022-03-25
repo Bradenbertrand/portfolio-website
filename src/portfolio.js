@@ -29,7 +29,7 @@ const projects = [
     livePreview: 'https://wordleleaderboard.herokuapp.com/',
   },
   {
-    name: 'Lets All Talk',
+    name: 'Let\'s All Talk',
     description:
       'A anonymous chat messaging app with only 1 chatroom, for everyone.',
     stack: ['React', 'Auth0', 'Chakra UI', 'Firebase'],
