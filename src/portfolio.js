@@ -29,6 +29,14 @@ const projects = [
     livePreview: 'https://wordleleaderboard.herokuapp.com/',
   },
   {
+    name: 'Lets All Talk',
+    description:
+      'A anonymous chat messaging app with only 1 chatroom, for everyone.',
+    stack: ['React', 'Auth0', 'Chakra UI', 'Firebase'],
+    sourceCode: 'https://github.com/Bradenbertrand/letsalltalk',
+    livePreview: 'https://letsalltalk.vercel.app',
+  },
+  {
     name: 'Dealership Inventory Manager',
     description:
       'A simple software for users to manage their inventory or personal car collections with ease.',
@@ -36,14 +44,7 @@ const projects = [
     sourceCode: 'https://github.com/Bradenbertrand/DealershipInventoryManagement',
     livePreview: 'https://github.com/Bradenbertrand/DealershipInventoryManagement',
   },
-  {
-    name: 'Spotifizer',
-    description:
-      'A website to manage spotify playlists, featuring Auth0 implementation.',
-    stack: ['React', 'Auth0', 'API Fetch/Post'],
-    sourceCode: 'https://github.com/Bradenbertrand/spotifizer',
-    livePreview: 'https://bradenbertrand.github.io/SpotifizerHomePage/',
-  },
+
 ]
 
 const skills = [
